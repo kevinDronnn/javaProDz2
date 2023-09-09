@@ -15,5 +15,23 @@ public class Employee {
         this.age = age;
     }
 
+    public String getFullName() {
+        return fullName;
+    }
 
+    public String getPosition() {
+        return position;
+    }
+
+    public String getEmail() {
+        return email;
+    }
+
+    public String getPhoneNumber() {
+        return phoneNumber;
+    }
+
+    public int getAge() {
+        return age;
+    }
 }
